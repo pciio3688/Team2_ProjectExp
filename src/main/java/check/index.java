@@ -6,6 +6,7 @@ public class index {
 		// TODO Auto-generated method stub
 		
 		System.out.println("참가합니다 16:17");
+		System.out.println("확인합니다 16:23");
 	}
 
 }
