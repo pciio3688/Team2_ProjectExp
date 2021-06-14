@@ -7,6 +7,7 @@ public class index {
 		
 		System.out.println("참가합니다 16:17");
 		System.out.println("확인합니다 16:23");
+		System.out.println("확인합니다 16:24");
 	}
 
 }
